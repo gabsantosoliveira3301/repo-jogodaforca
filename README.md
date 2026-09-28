@@ -19,19 +19,7 @@ O código principal está localizado em:
 
 `src/atividadejogodaforca/main.java`
 
-A classe compilada é gerada em:
+O codigo compilado é gerado em:
 
 `bin/atividadejogodaforca/main.class`
 
-## Tecnologias utilizadas
-
-- Java
-- Swing (`JOptionPane`)
-- Eclipse IDE
-
-## Como executar no Eclipse
-
-1. Importe o projeto para o Eclipse.
-2. Abra `src/atividadejogodaforca/main.java`.
-3. Execute a classe como **Java Application**.
-4. Siga as instruções mostradas nas janelas do programa.
